@@ -35,11 +35,11 @@
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-3 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -110,6 +110,16 @@
 }
 #testimonials4-0 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#testimonials4-0 .card-footer > div {
+  color: #ffffff;
+}
+#testimonials4-0 .mbr-section-subtitle {
+  color: #efefef;
+}
+#testimonials4-0 .card-footer > small {
+  color: #efefef;
 }
 #header4-5 P {
   text-align: right;
@@ -139,6 +149,37 @@
 #header4-8 .mbr-section-title {
   text-align: right;
   font-family: 'Open Sans', sans-serif;
+}
+#pricing-table1-0 .mbr-section__container .mbr-section-title {
+  color: #d14841;
+}
+#pricing-table1-0 .mbr-section__container .mbr-section-subtitle {
+  color: #d14841;
+}
+#pricing-table1-0 .mbr-plan-title {
+  font-size: 20px;
+  color: #d14841;
+}
+#pricing-table1-0 .mbr-price-term {
+  color: #d14841;
+  font-size: 36px;
+}
+#pricing-table1-0 .mbr-price-figure {
+  color: #d14841;
+  font-size: 100px;
+}
+#pricing-table1-0 .mbr-price-value {
+  color: #d14841;
+  font-size: 46px;
+}
+#pricing-table1-0 .mbr-plan-subtitle {
+  color: #d14841;
+}
+#pricing-table1-0 .mbr-plan-price-desc {
+  color: #000000;
+}
+#pricing-table1-0 UL {
+  font-size: 16px;
 }
 #pricing-table2-0 .mbr-plan-header,
 #pricing-table2-0 .mbr-plan-body {
@@ -221,11 +262,11 @@
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -307,11 +348,11 @@
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -393,11 +434,11 @@
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
@@ -479,11 +520,11 @@
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 #ext_menu-0 .dropdown-item,
 #ext_menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.975rem;
 }
 #ext_menu-0 .link:hover,
 #ext_menu-0 .dropdown-item:hover,
